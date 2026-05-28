@@ -1,4 +1,4 @@
-# Readme of festures branch
+# Readme of new bugs branch
 
-This is a features file
+This contains all the new bugs
 Add this with the main branch
