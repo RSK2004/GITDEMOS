@@ -1,4 +1,4 @@
-# Readme of new bugs branch
+# Readme of main branch
 
-This contains all the new bugs
-Add this with the main branch
+This is the main branch
+All project changes are added here!
