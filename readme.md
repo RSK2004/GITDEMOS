@@ -1,6 +1,4 @@
-# Readme of bugs branch
+# Readme of festures branch
 
-This is a bugs file
+This is a features file
 Add this with the main branch
-
-Access the webpage along with the new JS features!
